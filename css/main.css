@@ -1,0 +1,11 @@
+h1 {color: crimson;}
+
+h3 {font-size: large;
+    text-decoration: underline;}
+
+h4 {font-family: 'Oswald',serif;}
+
+.bands {border: 10px solid rgb(66, 63, 231); padding: 30px; margin: 30px;}
+
+.songs {border: 20px solid magenta; padding: 40px; margin: 30px;}
+

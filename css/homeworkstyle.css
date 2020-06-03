@@ -1,0 +1,38 @@
+* {font-family:  'Open Sans', serif;}
+
+a {
+    text-decoration: none;
+    color: rgb(129, 43, 163);
+    padding: 15px;
+    
+}
+
+div {
+    color: white;
+    background; height: 350px; position: relative;
+    background-color: black;
+    align-items: center;
+    justify-content: center; 
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+main {
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    margin: 30px 100px;
+}
+
+footer {
+    background: black; height: 100px;
+    color: white;
+    align-items: center;
+    justify-content: center; 
+    display: flex;
+}

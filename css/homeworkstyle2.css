@@ -1,0 +1,93 @@
+* {font-family:  'Open Sans', serif;}
+
+a {
+    text-decoration: none;
+    color: rgb(129, 43, 163);
+    padding: 15px;
+    
+}
+
+div {
+    background; height: 200px; position: relative;
+    align-items: center;
+    justify-content: center; 
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+ul {
+    list-style: none;
+}
+
+main {
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    margin: 30px 100px;
+}
+
+footer {
+    background: black; height: 100px;
+    color: white;
+    align-items: center;
+    justify-content: center; 
+    display: flex;
+}
+
+h2 {
+    background-image: url('../images/sky.jpg');
+    height: 300px;
+    background-position: center center;
+    color: white;
+    align-items: center;
+    justify-content: center; 
+    display: flex;
+}
+
+.vid {
+    background; position: relative;
+    background-color: white;
+    height: 200px;
+    align-items: center;
+    justify-content: center; 
+    display: flex;
+    text-align: center;
+    margin-top: 40px;
+}
+
+table {
+    margin: 20px;
+    min width: 200px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+thead tr{
+    background-color: wheat;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: bold;
+}
+
+tbody tr:nth-child(odd) {
+    background: rgb(51, 50, 50);
+    color: #ffffff
+}
+
+th {
+    border: 1px solid #ffffff;
+}
+    
+td {
+    border: 1px solid #ffffff;
+    text-align: right;
+}
+
+tbody td :nth-of-type(even) {
+
+}
+
+
+
+

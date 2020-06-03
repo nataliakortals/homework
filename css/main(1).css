@@ -1,0 +1,21 @@
+nav {background-color: mediumturquoise;
+}
+ul {list-style-type: none;}
+
+li {display: inline;}
+
+header {height: 400px; background-color: wheat; align-items: center;
+     justify-content: center; display: flex;}
+
+h1 {color: rgb(32, 32, 32); }
+
+p {
+    width: 300px; 
+    margin: 30px;
+ }
+
+ .specialText {color: darkmagenta;}
+
+ .first {font-size: 60px;}
+<---- or ----->
+ table tbody tr:nth-child(1) {font-size: 90px;}
